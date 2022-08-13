@@ -1,7 +1,7 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+My name is <a href=https://t.me/sl_mahima_official>SMO - Movie Bot</a>!
 
 <b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
 
@@ -27,7 +27,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 - <a href='https://t.me/josprojects'>Jos Projects</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/sl_mahima_contact_bot'>Movie World Contact</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
